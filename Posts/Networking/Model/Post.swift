@@ -13,6 +13,4 @@ class Post: Codable {
 	var userId = 0
 	var title = ""
 	var body = ""
-//	var timestamp: Int = 0
-//	var comments: [Comment] = []
 }
